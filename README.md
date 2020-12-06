@@ -14,4 +14,7 @@ I have put four visualizations on here, which I think best summarises the data a
 # Analysis:
 In order to find out what areas were the safest and most dangerous, I had to figure out where the certain crimes were taking place. I had to create a pivot table with the coubnts of all the offences per pricinct. From there I could begin to see where the crimes were actually taking place. I decided to make bar graphs to best show the amount of crimes per area. The results all agree for the most part, except for the homicedes. Assults, sex offences and total number of crimes all point to the North and West being the most dangerous. When you look at homicides, it points to the South pricinct being the most dangerous. That leads one to wonder because homicide is the most dangerous of all the crimes. That being said, the data as a whole pushes one to believe that the North and West are the most dangerous leaveing the South West pricinct as the safest. 
 
+# REFERENCES:
+“Seattle Police Department Adrian Diaz, Chief of Police.” Seattle Police Department Home Page - Police, www.seattle.gov/police. 
+
 
