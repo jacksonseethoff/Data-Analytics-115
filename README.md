@@ -1,6 +1,6 @@
 # Seattle Crime
 # MOTIVATING QUESTION:
-My motivating quesiton was what is the safest area in seattle. I figured that in order to figure this out, I would also have to find the most dangerous area in seattle.
+My motivating quesiton was what is the most dangerpus area in seattle. 
 
 # DATA SOURCE:
 I got my data from the Seattle Police Department website, http://www.seattle.gov/police . This data is from 2008 to the present (2020).   
