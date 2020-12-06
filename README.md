@@ -8,3 +8,9 @@ I got my data from the Seattle Police Department website, http://www.seattle.gov
 # PROCESSING STEPS:
 I had to begin by downloading the data off of the Seattle Police Departments website. I then had to convert the file to a CSV so that I could transport in to the Jupyter Notebook because it was not readable in the format that it was downloaded in. The majority of the data that came in wasn't numerical so that was the first challenge in order to make the data ready for processing. I had to change how the data was shown so that it listed the count for each different offense per precinct (see "Proccessing Numerical Data"). From there I could use the data to figure out what I was trying to answer.
 
+# VISUALIZATION:
+I have put four visualizations on here, which I think best summarises the data and gives me the best answer to my question. When I was deciding what visualizations to show I thought to myself, what are the crimes that make people think a city or area is dangerous. I decided to have visualizations for assult, homicide, and sexual assult in addition to the total number of arrests all distinguished by pricinct.
+
+# Analysis:
+
+
